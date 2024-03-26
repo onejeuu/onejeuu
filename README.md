@@ -20,5 +20,5 @@
 ### 💬 Contact with me:
 
 <span>
-  <a href="https://beber1k.t.me"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+  <a href="https://onejeuu.t.me"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 </span>
