@@ -15,7 +15,7 @@
 </span>
 
 
-## 💬 Contact with me:
+## 💬 My Contacts:
 
 <span>
   <a href="https://onejeuu.t.me"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
